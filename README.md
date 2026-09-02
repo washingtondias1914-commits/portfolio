@@ -46,25 +46,31 @@ python -m http.server 8000
 
 Abra `index.html` e localize e edite:
 
-```html
-<!-- Nome -->
-<h1>Olá! 👋 Sou <span class="destaque">SEU_NOME</span></h1>
+### 👤 Nome Completo
+**Washington Dias Brandão**
 
-<!-- Profissão -->
-<p class="profissao">Sua Especialidade</p>
+### 🎓 Profissão
+**Engenheiro de Software em formação | Infraestrutura, Redes e Linux**
 
-<!-- Descrição -->
-<p class="descricao">Suas áreas de expertise</p>
+### 📧 Email
+**washingtondias1911@gmail.com**
 
-<!-- Email -->
-<a href="mailto:seu.email@exemplo.com" class="btn-contato">📧 Email</a>
+### 💼 LinkedIn
+**https://www.linkedin.com/in/washington-dias-b02a7716b/**
 
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/seu-perfil" target="_blank">💼 LinkedIn</a>
+### 💻 GitHub
+**https://github.com/washingtondias1914-commits/portfolio**
 
-<!-- GitHub -->
-<a href="https://github.com/seu-usuario" target="_blank">💻 GitHub</a>
-```
+---
+
+## 🔗 Links Diretos
+
+| Plataforma | Link |
+|-----------|------|
+| 📧 Email | washingtondias1911@gmail.com |
+| 💼 LinkedIn | https://www.linkedin.com/in/washington-dias-b02a7716b/ |
+| 💻 GitHub (Portfólio) | https://github.com/washingtondias1914-commits/portfolio |
+| 👤 GitHub (Perfil) | https://github.com/dias1911-ui |
 
 ### 2. Projetos (5 Principais)
 
