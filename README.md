@@ -15,6 +15,16 @@
 
 ---
 
+## 🏆 Certificações
+
+| Certificação | Status |
+|-------------|--------|
+| CCNA | Em Progresso |
+| LPIC | Em Progresso |
+| Linux Essentials | Em Progresso |
+
+---
+
 ## 🔗 Links Diretos
 
 | Plataforma | Link |
