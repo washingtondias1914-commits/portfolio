@@ -1,0 +1,8 @@
+version: '3'
+services:
+  zabbix-server:
+    image: zabbix/zabbix-server-pgsql:latest
+    restart: unless-stopped
+  zabbix-web:
+    image: zabbix/zabbix-web-nginx-pgsql:latest
+    restart: unless-stopped

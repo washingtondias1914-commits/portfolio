@@ -1,0 +1,7 @@
+nginx.service - Nginx HTTP Server
+   Loaded: loaded (/lib/systemd/system/nginx.service; enabled)
+   Active: active (running) since Thu 2026-09-03 00:00:00 UTC; 1min ago
+ Main PID: 1234 (nginx)
+    Tasks: 3 (limit: 4567)
+   Memory: 4.5M
+   CGroup: /system.slice/nginx.service
