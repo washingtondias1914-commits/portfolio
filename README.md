@@ -1,11 +1,34 @@
-# Washington Dias — Portfólio Profissional (Redes & Linux)
+### 👤 Nome Completo
+**Washington Dias Brandão**
+
+### 🎓 Profissão
+**Engenheiro de Software em formação | Infraestrutura, Redes e Linux**
+
+### 📧 Email
+**washingtondias1911@gmail.com**
+
+### 💼 LinkedIn
+**https://www.linkedin.com/in/washington-dias-b02a7716b/**
+
+### 💻 GitHub
+**https://github.com/washingtondias1914-commits/portfolio**
+
+---
+
+## 🔗 Links Diretos
+
+| Plataforma | Link |
+|-----------|------|
+| 📧 Email | washingtondias1911@gmail.com |
+| 💼 LinkedIn | https://www.linkedin.com/in/washington-dias-b02a7716b/ |
+| 💻 GitHub (Portfólio) | https://github.com/washingtondias1914-commits/portfolio |
+| 👤 GitHub (Perfil) | https://github.com/washingtondias1914-commits/portfolio |
+
+---
+
+# 🖧 Portfólio - Especialista em Redes e Linux
 
 Sou especialista em infraestrutura de redes e administração de sistemas Linux, com foco em projetos corporativos que envolvem arquitetura de rede, segurança, servidores e monitoramento.
-
-Contato
-- Email: washingtondias1911@gmail.com
-- LinkedIn: https://www.linkedin.com/in/washington-dias-b02a7716b
-- GitHub: https://github.com/washingtondias1914-commits/portfolio
 
 Visão geral dos 5 projetos principais
 
@@ -29,13 +52,18 @@ Visão geral dos 5 projetos principais
    - O que demonstra: integração de rede, servidores, segurança e monitoramento em uma arquitetura corporativa
    - Link: ./05-infraestrutura-completa/README.md
 
-Status atual e o que foi feito
-- Todos os cinco projetos estão representados no repositório com README individuais, exemplos de configuração e pastas de evidências (placeholders onde ainda não foram adicionadas imagens reais).
-- Removi trechos de template e instruções genéricas para customização — este README é uma apresentação do meu trabalho, não um guia de personalização.
+---
 
-Próximos passos recomendados (posso executar)
-- Substituir os placeholders de evidências por prints e diagramas reais (você pode enviar as imagens e eu faço o upload). 
-- Enriquecer os READMEs de cada projeto com logs de teste e outputs reais (show ip route, show ip ospf neighbor, resultados de ping, arquivos de configuração completos).
-- Publicar o portfólio via GitHub Pages para um link público (opcional).
+Status atual
 
-Se quiser que eu faça as substituições das evidências e complemente os READMEs com conteúdo técnico extra, diga "Substituir placeholders" e envie os arquivos ou diga "Gera conteúdo técnico" para eu criar exemplos adicionais e testes automatizados.
+- Os cinco projetos estão representados e organizados em pastas com README, configurações de exemplo e evidências placeholder.
+
+Próximos passos recomendados
+
+- Substituir placeholders por evidências reais (prints, diagramas .drawio, arquivos de laboratório). Envie os arquivos e eu faço o upload.  
+- Enriquecer READMEs com outputs reais de testes (show ip route, show ip ospf neighbor, ping results).  
+- Publicar via GitHub Pages (opcional).
+
+---
+
+**Última atualização:** 2026-09-03
