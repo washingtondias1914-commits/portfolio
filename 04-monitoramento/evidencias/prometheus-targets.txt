@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "data": {
+    "activeTargets": [
+      { "labels": {"job":"node"}, "health":"up", "scrapeUrl":"http://10.0.0.11:9100/metrics" },
+      { "labels": {"job":"node"}, "health":"up", "scrapeUrl":"http://10.0.0.12:9100/metrics" }
+    ]
+  }
+}
+
+# SIMULADO: saída de /api/v1/targets

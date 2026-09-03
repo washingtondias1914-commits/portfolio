@@ -1,0 +1,9 @@
+PING web-server.corp.local (192.168.30.10) 56(84) bytes of data.
+64 bytes from 192.168.30.10: icmp_seq=1 ttl=64 time=2.34 ms
+64 bytes from 192.168.30.10: icmp_seq=2 ttl=64 time=2.15 ms
+
+--- 192.168.30.10 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss
+rtt min/avg/max/mdev = 2.150/2.245/2.340/0.095 ms
+
+# SIMULADO: substituir por saída real

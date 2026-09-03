@@ -1,0 +1,8 @@
+Codes: C - connected, S - static, O - OSPF, O E2 - OSPF external type 2
+
+C    192.168.10.0/24 is directly connected, Vlan10
+C    192.168.20.0/24 is directly connected, Vlan20
+C    192.168.30.0/24 is directly connected, Vlan30
+O    10.1.0.0/16 [110/20] via 10.0.0.2, 00:02:12, GigabitEthernet0/1
+
+# SIMULADO: saída de `show ip route`

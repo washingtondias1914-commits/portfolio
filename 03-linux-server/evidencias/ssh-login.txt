@@ -1,0 +1,4 @@
+SSH session started: user=adminuser@192.168.30.10
+Last login: Thu Sep 3 09:10:12 2026 from 10.0.0.50
+
+# SIMULADO: print textual de login SSH (substituir por imagem real)

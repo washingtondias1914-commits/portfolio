@@ -1,0 +1,4 @@
+2026-09-03T09:12:03Z - ALERT: CPU_HIGH on host node-01 (avg 92%) - notification: email
+2026-09-03T09:15:10Z - ALERT: DISK_CRITICAL on host node-02 (usage 93%) - notification: slack
+
+# SIMULADO: histórico de alertas

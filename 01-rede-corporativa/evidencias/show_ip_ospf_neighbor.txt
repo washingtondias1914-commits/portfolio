@@ -1,0 +1,5 @@
+O        ID   Pri   State           Dead Time   Address         Interface
+Neighbor 1  1     FULL/DR         00:02:34    10.0.0.2        GigabitEthernet0/1
+Neighbor 2  1     FULL/BDR        00:02:30    10.0.0.3        GigabitEthernet0/2
+
+# SIMULADO: saída de `show ip ospf neighbor` — substituir por saída real
